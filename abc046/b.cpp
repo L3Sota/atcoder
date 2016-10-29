@@ -10,7 +10,7 @@ int main(void) {
     --k;
     for(size_t i = 0; i < n-1; ++i)
         a *= k;
-    
+
     cout << a << endl;
     return 0;
 }
