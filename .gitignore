@@ -1,7 +1,5 @@
 **/*.out
 **/*.[0-9]
-*/
-!abc*/
-!arc*/
-!agc*/
+**/*.out.dSYM/
+**/incomplete/
 
