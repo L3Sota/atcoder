@@ -1,6 +1,12 @@
-AtCoder Answers
+# Competitive Programming Answers
 
 Answers are written in C++.
-See which problems I've finished [here](http://kenkoooo.com/atcoder/?kind=index&name=L3Sota) and an overview [here](http://kenkoooo.com/atcoder/?name=L3Sota&kind=user) (3rd party site).
 
-- [AtCoder top page here](http://atcoder.jp)
+## [AtCoder](http://atcoder.jp/)
+
+3rd party site to see which problems I've finished [here](http://kenkoooo.com/atcoder/?kind=index&name=L3Sota); overview available [here](http://kenkoooo.com/atcoder/?name=L3Sota&kind=user).
+
+## [CodeForces](http://codeforces.com/)
+
+## [HackerRank](http://www.hackerrank.com/)
+
