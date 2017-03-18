@@ -1,5 +1,6 @@
 **/*.s
 **/*.out
+**/[a-z]
 **/*.[0-9]
 **/*.out.dSYM/
 **/incomplete/
