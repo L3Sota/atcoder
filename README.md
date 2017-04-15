@@ -8,5 +8,6 @@ Answers are written in C++.
 
 ## [CodeForces](http://codeforces.com/)
 
-## [HackerRank](http://www.hackerrank.com/)
+## [Google Code Jam](https://code.google.com/codejam/)
 
+## [HackerRank](http://www.hackerrank.com/)
