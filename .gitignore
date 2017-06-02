@@ -2,7 +2,8 @@
 **/*.in
 **/*.out
 **/[a-z]
+!**/[a-z]/
 **/*.[0-9]
-**/*.out.dSYM/
+**/*.dSYM/
 **/incomplete/
-
+**/venvs/
